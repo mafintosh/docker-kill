@@ -1,6 +1,6 @@
 {
   "name": "docker-kill",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Kill a docker container",
   "main": "index.js",
   "dependencies": {
