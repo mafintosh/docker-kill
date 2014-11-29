@@ -1,0 +1,4 @@
+Usage: docker-kill [id-1] [id-2] ... [options]
+
+  --host,  -H  [docker-host]
+  --wait,  -w  [seconds to wait before sending SIGKILL]

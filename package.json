@@ -1,0 +1,23 @@
+{
+  "name": "docker-kill",
+  "version": "0.0.0",
+  "description": "Kill a docker container",
+  "main": "index.js",
+  "dependencies": {
+    "minimist": "^1.1.0"
+  },
+  "devDependencies": {},
+  "bin": {
+    "docker-kill": "./bin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/docker-kill.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/docker-kill/issues"
+  },
+  "homepage": "https://github.com/mafintosh/docker-kill"
+}
